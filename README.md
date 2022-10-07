@@ -1,2 +1,2 @@
-# Tic Tac Toe 
-Tic Tac Toe in ReactJS
+# TicTacToe
+Tic-tac-toe game in react.js
