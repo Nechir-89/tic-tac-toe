@@ -1,6 +1,9 @@
 .square{
-  border: 1px sold gray;
-  display: inline-block;
+  width: 4rem;
+  height: 4rem;
+  border: 1px solid gray;
+  display: grid;
+  place-items: center;
   font-weight: bold;
   font-size: 22px;
 }
